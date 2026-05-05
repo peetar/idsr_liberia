@@ -7,6 +7,7 @@ import { diseases, Clinic } from '@/types';
 export default function ClinicPage() {
   const [selectedDisease, setSelectedDisease] = useState('');
   const [message, setMessage] = useState('');
+  const [idsrId, setIdsrId] = useState('');
   const [clinic, setClinic] = useState<Clinic | null>(null);
   const router = useRouter();
 
@@ -32,13 +33,13 @@ export default function ClinicPage() {
       body: JSON.stringify({
         clinicId: clinic.id,
         disease: selectedDisease,
-        countyCode: clinic.countyCode,
-        caseId: `CASE-${Date.now()}`, // Simple case ID
       }),
     });
 
     if (response.ok) {
-      setMessage('Case reported successfully');
+      const result = await response.json();
+      setIdsrId(result.idsrId || '');
+      setMessage(`Case reported successfully: ${result.idsrId}`);
       setSelectedDisease('');
     } else {
       setMessage('Error reporting case');
@@ -91,6 +92,9 @@ export default function ClinicPage() {
           </button>
         </form>
         {message && <p className="mt-4 text-center text-green-600">{message}</p>}
+        {idsrId && (
+          <p className="mt-2 text-center text-gray-700">Submitted IDSR case: {idsrId}</p>
+        )}
       </div>
     </div>
   );

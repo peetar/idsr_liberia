@@ -1,12 +1,19 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { put, get } from '@vercel/blob';
-import { Case } from '@/types';
+import { Case, Clinic } from '@/types';
 import fs from 'fs';
 import path from 'path';
 
 const CASES_FILE = 'cases.json';
 const LOCAL_DATA_PATH = path.join(process.cwd(), 'data', 'cases.json');
+const FACILITIES_PATH = path.join(process.cwd(), 'public', 'facilities.json');
 const BLOB_ACCESS = process.env.BLOB_STORAGE_ACCESS || 'private';
+
+const facilities: Clinic[] = JSON.parse(fs.readFileSync(FACILITIES_PATH, 'utf8'));
+
+function findClinic(id: string) {
+  return facilities.find((clinic) => clinic.id === id);
+}
 
 async function getCases(): Promise<Case[]> {
   const useBlob = process.env.BLOB_READ_WRITE_TOKEN;
@@ -65,20 +72,35 @@ export async function GET() {
 
 export async function POST(request: NextRequest) {
   const body = await request.json();
-  const { clinicId, disease, countyCode, caseId } = body;
+  const { clinicId, disease } = body;
 
-  if (!clinicId || !disease || !countyCode || !caseId) {
+  if (!clinicId || !disease) {
     return NextResponse.json({ error: 'Missing fields' }, { status: 400 });
   }
 
+  const clinic = findClinic(clinicId);
+  if (!clinic) {
+    return NextResponse.json({ error: 'Facility not found' }, { status: 400 });
+  }
+
   const cases = await getCases();
+  const facilityCaseNumbers = cases
+    .filter((c) => c.clinicId === clinicId)
+    .map((c) => parseInt(c.caseId, 10))
+    .filter((n) => !Number.isNaN(n));
+
+  const nextNumber = facilityCaseNumbers.length > 0 ? Math.max(...facilityCaseNumbers) + 1 : 1;
+  const caseId = String(nextNumber).padStart(3, '0');
+  const idsrId = `${clinic.countyCode}-${clinic.id}-${caseId}`;
+
   const newCase: Case = {
     id: Date.now().toString(),
     clinicId,
     disease,
     reportedAt: new Date().toISOString(),
-    countyCode,
+    countyCode: clinic.countyCode,
     caseId,
+    idsrId,
   };
   cases.push(newCase);
   await saveCases(cases);

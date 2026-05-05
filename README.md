@@ -32,8 +32,9 @@ Deploy to Vercel by connecting your GitHub repository to Vercel. Ensure the `BLO
 
 ## Data Model
 
-- Cases are stored with clinic ID, disease, county code, case ID, and timestamp.
-- Clinics and diseases are currently hardcoded; integrate with provided spreadsheets for full data.
+- Cases are stored with clinic ID, disease, county code, case ID, IDSR ID, and timestamp.
+- Case IDs are now generated sequentially per facility on the server, using facility county code and clinic identifier.
+- Clinics and diseases are currently loaded from JSON data; integrate with provided spreadsheets for full data.
 
 ## Next Steps
 

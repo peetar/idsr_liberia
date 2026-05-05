@@ -31,7 +31,7 @@ export default function AdminPage() {
               <th className="px-4 py-2 text-left">ID</th>
               <th className="px-4 py-2 text-left">Clinic</th>
               <th className="px-4 py-2 text-left">Disease</th>
-              <th className="px-4 py-2 text-left">County Code</th>
+              <th className="px-4 py-2 text-left">IDSR ID</th>
               <th className="px-4 py-2 text-left">Case ID</th>
               <th className="px-4 py-2 text-left">Reported At</th>
             </tr>
@@ -42,7 +42,7 @@ export default function AdminPage() {
                 <td className="px-4 py-2">{caseItem.id}</td>
                 <td className="px-4 py-2">{getClinicName(caseItem.clinicId)}</td>
                 <td className="px-4 py-2">{caseItem.disease}</td>
-                <td className="px-4 py-2">{caseItem.countyCode}</td>
+                <td className="px-4 py-2">{caseItem.idsrId}</td>
                 <td className="px-4 py-2">{caseItem.caseId}</td>
                 <td className="px-4 py-2">{new Date(caseItem.reportedAt).toLocaleString()}</td>
               </tr>

@@ -5,6 +5,7 @@ export interface Case {
   reportedAt: string; // ISO date
   countyCode: string;
   caseId: string;
+  idsrId: string;
 }
 
 export interface Clinic {

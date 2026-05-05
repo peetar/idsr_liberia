@@ -3,5292 +3,5292 @@
     "id": "LBR-36-3606-04",
     "name": "Inland Mission Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-36-3606-05",
     "name": "Open Bible Society Mission Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-36-3606-06",
     "name": "Timbo Compound Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-36-3606-02",
     "name": "Charlie's Town Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-36-3606-01",
     "name": "St Francis Hospital",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-36-3606-03",
     "name": "Fen-River Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-15-1514-02",
     "name": "Duogee Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1514-01",
     "name": "B'hai Tarway Town Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1514-03",
     "name": "Toe Town Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-18-1828-01",
     "name": "Rally Time Hospital",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1828-02",
     "name": "Barclayville Health Center",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1828-03",
     "name": "Gbalakpo Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1828-04",
     "name": "Gbanken Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1828-05",
     "name": "Juduken Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1828-06",
     "name": "Picnicess Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-27-2704-01",
     "name": "Feloken Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2704-02",
     "name": "Gbarwiliken Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2702-02",
     "name": "Juduken Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2702-01",
     "name": "Glofarken Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2702-03",
     "name": "Newaken Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-45-4504-01",
     "name": "Fasama Clinic (Bade)",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-45-4504-02",
     "name": "Kondesu Clinic",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-33-3320-02",
     "name": "Graie Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3320-01",
     "name": "Bonlay Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3320-05",
     "name": "Zuaplay Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3320-04",
     "name": "Toweh Town Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3320-03",
     "name": "New Yourpea Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3320-06",
     "name": "Zuolay Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3320-07",
     "name": "Ma Gartay Memorial Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-45-4506-02",
     "name": "Gbangay Clinic",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-45-4506-03",
     "name": "Kpayeakwelleh Clinic",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-45-4506-01",
     "name": "Forkpata Clinic",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-45-4506-04",
     "name": "Morlarkwelleh Clinic",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-45-4508-01",
     "name": "Emirates Hospital",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-45-4508-02",
     "name": "Bambuta Clinic",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-45-4508-03",
     "name": "Gbaryamah Clinic",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-45-4508-04",
     "name": "Gokallah Clinic",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-45-4508-05",
     "name": "Henry Town Clinic",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-45-4508-06",
     "name": "Totoquelle Clinic",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-18-1822-01",
     "name": "Buah Health Center",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1822-02",
     "name": "Dwehkun Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1822-03",
     "name": "Ponnoken Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1822-04",
     "name": "Tarlu Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-09-0912-15",
     "name": "Well Baby",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0912-08",
     "name": "Camphor Mission Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0912-01",
     "name": "Liberia Government Hospital (Buchanan)",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0912-09",
     "name": "Christian Extension Ministry Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-30-3010-35",
     "name": "Graystone Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-09-0912-02",
     "name": "Steven Tolbert Memorial Hospital (ArcelorMittal)",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0912-12",
     "name": "Praise Medico Surgical Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0912-13",
     "name": "Samuel David Medical Clinic (SDMC)",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0912-03",
     "name": "St Peter Claver Catholic Health Center",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0912-05",
     "name": "African Christian Fellowship International Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0912-14",
     "name": "Tubmanville Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0912-04",
     "name": "Barconnie Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-30-3010-01",
     "name": "Redemption Hospital",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-40",
     "name": "Last Hope Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-34",
     "name": "Gloring clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-41",
     "name": "Liberia Albino clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-42",
     "name": "Liberia Coast Guard Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-63",
     "name": "Slipway Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-36",
     "name": "Islamic Medical Surgical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-17",
     "name": "Carter Center LMA Market School-Based Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-05",
     "name": "Bishop John Collins Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-07",
     "name": "Al-halal Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-06",
     "name": "Ahmadiyya Mission Muslim Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-10",
     "name": "Anthony Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-15",
     "name": "Bushrod Island Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-09",
     "name": "Anatah Medical  Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-44",
     "name": "Ma- Yanlla Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-18",
     "name": "Cemenco Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-20",
     "name": "Coral Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-21",
     "name": "Cynthia Nelson Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-22",
     "name": "Dae Dorbor Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-24",
     "name": "Divine Comm Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-27",
     "name": "Dr. Salman's Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-19",
     "name": "City Lab Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-23",
     "name": "Devine Touch Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-28",
     "name": "Dr. Torbor's Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-03",
     "name": "Clara Town Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-29",
     "name": "Eulysa Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-38",
     "name": "Jerry Donso Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-39",
     "name": "Kamah Memorial Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-30",
     "name": "Father James Lee Maternity Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-32",
     "name": "Fountain of Life Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-46",
     "name": "Markue Medical Laboratory Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-47",
     "name": "Mawah Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-48",
     "name": "Medical Consultants Associates (MALAG) Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-50",
     "name": "Mercy Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-53",
     "name": "National Port Authority Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-52",
     "name": "Musash Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-59",
     "name": "Renaissance Maternity Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-51",
     "name": "Mother and Child",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-64",
     "name": "Snapper Hill Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-11",
     "name": "Ark Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-08",
     "name": "Amagashie Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-12",
     "name": "Asante Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-13",
     "name": "Barclay Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-14",
     "name": "Bishop John Collins Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-16",
     "name": "Caldwell Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-25",
     "name": "Dniyama Out Patient Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-43",
     "name": "Liberia Egyptian Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-26",
     "name": "Dr. Harris Mgt & Service",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-49",
     "name": "Medlink International (Kassas) Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-45",
     "name": "Makona Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-04",
     "name": "New Kru Town Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-57",
     "name": "R. B. Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-56",
     "name": "Potter Care Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-58",
     "name": "Raphal Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-54",
     "name": "North Road Merci Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-55",
     "name": "Pacific Medical Lab. Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-61",
     "name": "Samson Urgent Care Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-33",
     "name": "Global Pharm  Medical Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-62",
     "name": "Sekou Ahmadu Camara Memorial and Dental Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-65",
     "name": "Solar Eye Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-70",
     "name": "TKG Med Lab Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-72",
     "name": "Tropical Clinic Annex 1",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-67",
     "name": "Stockton Creek Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-02",
     "name": "St. Joseph Catholic Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-68",
     "name": "T & M Neigbour Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-66",
     "name": "St Paul Bridge Comm",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-69",
     "name": "Thumbs Up clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-71",
     "name": "Trinity Maternity Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-73",
     "name": "Unity Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-75",
     "name": "Wonjah Smith Memorial Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-76",
     "name": "Zobo Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-74",
     "name": "Vezely Hope Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-31",
     "name": "Firehouse Clinic (John S. Butler Clinic) II",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3010-77",
     "name": "Star of the Sea Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-39-3904-02",
     "name": "Grigsby Farm Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3904-01",
     "name": "Butaw Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-33-3334-01",
     "name": "Zoe Geh Medical Center",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3334-02",
     "name": "Buutuo Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3334-04",
     "name": "Gblalay Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3334-05",
     "name": "Gbloulay Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3334-07",
     "name": "Doris Memorial Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3334-08",
     "name": "Ma Martha Medical Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3334-06",
     "name": "Lepula Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3334-03",
     "name": "Buutuo ULIC Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-09-0908-01",
     "name": "Senyah Community Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-30-3002-01",
     "name": "Bensonville Hospital",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-03",
     "name": "A Refuge Place int'l,",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-02",
     "name": "Kesselee Memorial Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-04",
     "name": "Camp Sandee Ware Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-08",
     "name": "Crozierville Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-11",
     "name": "Fredai Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-05",
     "name": "Careysburg Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-09",
     "name": "DAFEVA Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-12",
     "name": "Harrisburg Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-14",
     "name": "Kingsville Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-15",
     "name": "Liberia Albino Society Clinic Annex II",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-19",
     "name": "Remedy Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-10",
     "name": "Faith Clinic (Carey)",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-20",
     "name": "SARBIL Christian Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-16",
     "name": "Evangelism Ministry Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-17",
     "name": "Nancy Fayiah Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-18",
     "name": "Refuge Place",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-22",
     "name": "White Plains Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-23",
     "name": "Ma. Bendu Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3002-21",
     "name": "Slemp Medical  Annex 2",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-15-1516-04",
     "name": "Janzon Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1516-02",
     "name": "Beh Town Clinic (Cavalla)",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1516-03",
     "name": "Gboleken Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1516-01",
     "name": "Bargblor Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1516-05",
     "name": "Tuzon Clinic (Cavalla)",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1516-06",
     "name": "Zai Town Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-30-3026-31",
     "name": "Hydro MERCI Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-04",
     "name": "SDA Cooper Memorial Hospital",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-29",
     "name": "Grace A Reeves Baptist Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-09",
     "name": "Ahmadiyya Muslim Mission Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-01",
     "name": "St Joseph's Catholic Hospital",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-14",
     "name": "B.W. Payne School Based Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-43",
     "name": "Ministry of Foreign Affairs Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-58",
     "name": "Tubman High School Based Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-30",
     "name": "Group of 77 Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-44",
     "name": "Ministry of Public Works Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-46",
     "name": "Monrovia Central Prison Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-06",
     "name": "Soniwen Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-03",
     "name": "JF Kennedy Medical Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-02",
     "name": "National TB & Leprosy Hospital",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-23",
     "name": "Few Diagnosis",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-32",
     "name": "J. Singh Medical Laboratory and Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-52",
     "name": "Prestige Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-15",
     "name": "Belle Baloma Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-33",
     "name": "Joanna Maternity Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-34",
     "name": "Joelu Maternity Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-27",
     "name": "Good Will Health Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-38",
     "name": "Liberia National Police Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-47",
     "name": "Old Road Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-49",
     "name": "Peoples United Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-56",
     "name": "The Good Will Clinic Annex II",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-51",
     "name": "Planned Parenthood Association",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-24",
     "name": "Fiamah Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-25",
     "name": "Fidelity Health Care Services Inc.",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-59",
     "name": "Wroto Town Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-57",
     "name": "Tropical Clinic Annex 2",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-41",
     "name": "Matadi City Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-55",
     "name": "The Good Will clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-05",
     "name": "Jordan River Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-10",
     "name": "AMEU Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-20",
     "name": "Daqmon Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-54",
     "name": "Syriana Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-48",
     "name": "Peace Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-16",
     "name": "Bishop Darlington  Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-45",
     "name": "Miracle Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-08",
     "name": "ACFI Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-42",
     "name": "Mercy International Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-19",
     "name": "Clini Lab",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-36",
     "name": "Joseph Boakai Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-50",
     "name": "Piyea Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-53",
     "name": "Swamp Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-28",
     "name": "God's Will Health Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-35",
     "name": "Jorkpen Town Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-40",
     "name": "Ma-Esther Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-39",
     "name": "Liberia National Red Cross Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-22",
     "name": "Earlbert Medical Services, INC",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3026-26",
     "name": "Genesis Healthcare Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-36-3608-03",
     "name": "Neezuin Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-36-3608-01",
     "name": "Dorbor Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-36-3608-02",
     "name": "Kploh Community Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-42-4202-03",
     "name": "Putuken Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4202-02",
     "name": "Killepo Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4202-01",
     "name": "Jarkaken Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-30-3018-60",
     "name": "Medicover Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-61",
     "name": "Miracle Center of God Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-01",
     "name": "ELWA Hospital",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-02",
     "name": "Benson Hospital",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-05",
     "name": "Agape Health Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-03",
     "name": "E S Grant Mental Hospital",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-10",
     "name": "J and J Memorial Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-07",
     "name": "Albertine M. White Memoral Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-11",
     "name": "Life Care Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-14",
     "name": "Pipeline Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-63",
     "name": "More Grace Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-12",
     "name": "Macphine Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-13",
     "name": "P.D. Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-66",
     "name": "Mount Barclay Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-67",
     "name": "New Life Med. & Lab. Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-65",
     "name": "Mother's Love Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-69",
     "name": "Omega Market Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-68",
     "name": "Omega Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-15",
     "name": "A Place of Rescue Health Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-19",
     "name": "All Healthcare Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-20",
     "name": "Anet Mini Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-70",
     "name": "Paynesville City Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-22",
     "name": "Beengee Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-71",
     "name": "Pool of Bethesda Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-18",
     "name": "All Grace Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-37",
     "name": "Esther  Amos Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-31",
     "name": "D H Luo Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-26",
     "name": "Brown Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-24",
     "name": "Bethesda Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-25",
     "name": "Bong Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-33",
     "name": "Divine Help Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-34",
     "name": "Dr. Kamara Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-38",
     "name": "From God to Man-Ma-Hawa clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-36",
     "name": "El-Shadah Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-39",
     "name": "Gates of Hope Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-30",
     "name": "Confidence Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-32",
     "name": "D. J. K Medical and Laboratory Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-41",
     "name": "German Liberia Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-45",
     "name": "Home Care Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-47",
     "name": "Johnsonville Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-46",
     "name": "Johnson Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-49",
     "name": "Kellen Clinic Mt. Blarclay",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-52",
     "name": "Liberty Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-42",
     "name": "Goodness of God Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-44",
     "name": "Heaven Care Clinic/Children Health Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-48",
     "name": "Jomu Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-50",
     "name": "Kingdom Care Medical Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-54",
     "name": "Ma. Bendu (Lukambeh Med. Clinic)",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-55",
     "name": "Ma Sander Memorial Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-56",
     "name": "Ma V Maternity Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-57",
     "name": "Ma-Garmai Maternity Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-58",
     "name": "Ma-Rita Maternal, Child Health And Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-59",
     "name": "Medical Diagnostic Laboratory Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-06",
     "name": "Dr. Agnes Varis Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-74",
     "name": "Robert Moore Memorial Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-76",
     "name": "Sam Mini Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-75",
     "name": "Rock City Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-73",
     "name": "Refuge Place Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-72",
     "name": "Providence Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-80",
     "name": "TASA Medical and Laboratory Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-77",
     "name": "Shaden Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-78",
     "name": "St. Benedict Menni Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-79",
     "name": "Sunrise Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-81",
     "name": "The Good Will Clinic Annex I",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-83",
     "name": "United Pentacostal Church Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-85",
     "name": "Wein Town Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-84",
     "name": "Vision for the Hopeless Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-87",
     "name": "William Booth Salvation Army Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-88",
     "name": "Wlame's Maternity Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-09",
     "name": "Ghaial Foundation Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-89",
     "name": "Duport Road Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-40",
     "name": "Genesis Healthcare Medical Clinic Annex 1 (Breath of Life Clinic)",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-53",
     "name": "Louisiana Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-86",
     "name": "Wein Town Med. & Lab. Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-29",
     "name": "Compassionate Care Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-64",
     "name": "Mother Esther Rufus Med. Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-43",
     "name": "Health for All Medical",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-62",
     "name": "Modern Medical and Laboratory Diagnostic Services",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-35",
     "name": "Grace Health Care Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-90",
     "name": "Patience Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-91",
     "name": "Mercy G. Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3018-92",
     "name": "First Choice Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-12-1208-01",
     "name": "St Timothy's Hospital",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1208-04",
     "name": "Tallah Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1208-03",
     "name": "Sembehum Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1208-02",
     "name": "Fanti Town Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-09-0904-01",
     "name": "Compound No. 1 Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0904-05",
     "name": "Little Bassa Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-33-3321-06",
     "name": "Equip Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-09-0904-04",
     "name": "John Logan Town SDP",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0904-03",
     "name": "Jacob Larteh Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0904-02",
     "name": "Edina Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0904-06",
     "name": "Lloydsville Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0904-07",
     "name": "Mother of Light Rehabilitation Center",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0906-02",
     "name": "St John Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0906-01",
     "name": "Compound # 2 Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0906-03",
     "name": "True Life",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0914-01",
     "name": "Liberia Agriculture Company Hospital",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0914-02",
     "name": "Barseegiah Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0914-03",
     "name": "Boeglay Town Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0914-04",
     "name": "Compound # 3 Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0915-02",
     "name": "Gardour Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0915-01",
     "name": "Desoe Town Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0915-03",
     "name": "Sue Town Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0916-01",
     "name": "Ceegbah Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0916-03",
     "name": "Little Kola Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0916-04",
     "name": "Palmbay Plantation Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0916-02",
     "name": "Compound # 4 Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0916-05",
     "name": "Zondo Mission Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-36-3602-01",
     "name": "Boegeezay Health Center",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-36-3602-03",
     "name": "Kangbo Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-36-3602-02",
     "name": "Gozohn Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-18-1836-01",
     "name": "Bolloh New Town Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1836-02",
     "name": "Doeswen Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1836-03",
     "name": "Nyankupo Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-03-0308-05",
     "name": "Lower Zor Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0308-04",
     "name": "Jenneh No 3 Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0308-03",
     "name": "Dagweh Community Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0308-02",
     "name": "Bonjeh Town Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0308-06",
     "name": "Vortor Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0308-01",
     "name": "Beh Town Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0308-07",
     "name": "Health Care & Revival Center",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-39-3093-03",
     "name": "Juayen Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3093-04",
     "name": "Karquekpo Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3093-01",
     "name": "Dr. John S. Doedeh Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3093-02",
     "name": "Edward Memorial Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3093-05",
     "name": "Kwitatuzon Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3093-06",
     "name": "Menweh Walker Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-24-2402-01",
     "name": "Du-side Hospital",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2402-06",
     "name": "Garzon Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2402-03",
     "name": "Cotton Tree Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2402-02",
     "name": "Comfort Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2402-04",
     "name": "Dolo's Town Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2402-09",
     "name": "Lisnow Martanity Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2402-05",
     "name": "Farmington Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2402-07",
     "name": "Harbel Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2402-10",
     "name": "Mother Artis Martanity Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-21-2102-11",
     "name": "Yekpedu Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2102-01",
     "name": "Foya Boma Hospital",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2102-05",
     "name": "Leingbamba Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2102-03",
     "name": "Foya Tengia Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2102-02",
     "name": "Foya  Health Center",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2102-04",
     "name": "Isaac F. Gbema Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2102-06",
     "name": "Mendikorma Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2102-07",
     "name": "Porluma Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2102-08",
     "name": "Shelloe Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2102-09",
     "name": "Sorlumba Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2102-10",
     "name": "Worsonga Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2102-12",
     "name": "Kondobengu Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-06-0602-01",
     "name": "Bong Medical Hospital",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0602-02",
     "name": "Degei Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0602-03",
     "name": "Haindi Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-33-3321-08",
     "name": "Ganta Community Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3321-02",
     "name": "E & J Medical Hospital",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3321-01",
     "name": "Ganta Methodist Hospital",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3321-12",
     "name": "Power House Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3321-04",
     "name": "Agape Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3321-09",
     "name": "KL Foundation Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3321-13",
     "name": "Elizebeth Nipo clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3321-14",
     "name": "H&E Grace Medical Center",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3321-15",
     "name": "Magkie Medical clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3321-10",
     "name": "Yenglee Medical Hospital",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3321-03",
     "name": "Ganta Rehabilitation",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3321-11",
     "name": "Newman Christian Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3321-05",
     "name": "Bomah Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3321-07",
     "name": "Evening Star Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-12-1202-01",
     "name": "Sinje Health Center",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1202-02",
     "name": "Bendu Community Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1202-03",
     "name": "Bomboja Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1202-04",
     "name": "Jundu Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1202-08",
     "name": "Zaway Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1202-05",
     "name": "Karnga Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1202-06",
     "name": "Kpeneji",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1202-07",
     "name": "Madina Community Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-15-1502-01",
     "name": "Gbarzon Health Center",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1502-03",
     "name": "Gbo-Geewon Community Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1502-04",
     "name": "Polar Town Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1502-02",
     "name": "Gbarzon Jarwodee Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-45-4510-04",
     "name": "Yangaya Clinic",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-45-4510-01",
     "name": "Gbarma Clinic",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-45-4510-02",
     "name": "Tarkpoima Clinic",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-45-4510-03",
     "name": "Weasua Clinic",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-42-4208-03",
     "name": "Pronoken Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4208-04",
     "name": "St Kizito Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4208-02",
     "name": "Drugbo Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4208-01",
     "name": "Gbeapo Health Center",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-33-3308-05",
     "name": "Loguatuo Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3308-01",
     "name": "Karnplay Health Center",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3308-07",
     "name": "Zorgowee Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3308-06",
     "name": "Youhnlay Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3308-02",
     "name": "Duoplay Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3308-03",
     "name": "Give Them Hope Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3308-04",
     "name": "Goagortuo Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-39-3905-02",
     "name": "Togbaville Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3905-01",
     "name": "Dr. Alexander P. Tokpah Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-24-2404-01",
     "name": "Massaquoi Town Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2404-02",
     "name": "Salala Rubber Corporation Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2404-07",
     "name": "Worhn Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2404-03",
     "name": "Peter's Town Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2404-06",
     "name": "Wolola Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2404-04",
     "name": "Yarnwullie Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-12-1204-02",
     "name": "Beh Gondoh Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1204-04",
     "name": "Joseph J. Jarbo Memorial Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1204-03",
     "name": "Fred Care Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1204-05",
     "name": "Kinjor Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1204-06",
     "name": "Lofa Bridge Health Center",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1204-09",
     "name": "Varguaye Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1204-07",
     "name": "Mbaloma Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1204-08",
     "name": "Than Gola-Kanneh Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-39-3902-03",
     "name": "St Joseph Catholic Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3902-01",
     "name": "F J Grante Hospital",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3902-02",
     "name": "Lexington Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-27-2724-04",
     "name": "Litter Wlebo Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2724-06",
     "name": "Rock Town Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2724-07",
     "name": "Sacred Heart Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2724-05",
     "name": "Pullah Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2724-01",
     "name": "JJ Dossen Hospital",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2724-02",
     "name": "Cavalla Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2724-03",
     "name": "Fish Town Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2724-08",
     "name": "Youkudi Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-39-3924-01",
     "name": "Diyankpo Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3924-03",
     "name": "Tuzon Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3924-02",
     "name": "Government Camp Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3922-02",
     "name": "Ducorfree Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3922-01",
     "name": "Doodwicken Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3922-03",
     "name": "Jokoken Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3922-04",
     "name": "Nyennawlicken Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-36-3614-02",
     "name": "Gblosseo Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-36-3614-01",
     "name": "Rivercess District Referral Hospital",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-36-3614-03",
     "name": "Kayah Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-36-3614-04",
     "name": "Sahyah Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-06-0604-08",
     "name": "Tamayta Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0604-09",
     "name": "Wainsue Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0604-02",
     "name": "Africa Fundamental Baptist Mission Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0604-01",
     "name": "Charles B Dunbar Hospital",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0604-03",
     "name": "Janyea Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0604-04",
     "name": "John Mayango",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0604-06",
     "name": "Mainowainsue Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0604-07",
     "name": "Samay Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0604-10",
     "name": "Gbenequelleh Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-36-3605-01",
     "name": "Bodowhea Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-36-3605-02",
     "name": "Larkpasee Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-24-2406-01",
     "name": "CH Rennie Hospital",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-04",
     "name": "JJ Korhene Health Care Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-06",
     "name": "Waterfield Primary Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-09",
     "name": "Booker Washington Institute Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-02",
     "name": "Dr Barcolleh Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-03",
     "name": "Good Samaritan Mother and Child Health Care Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-05",
     "name": "Kakata Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-27",
     "name": "Prison Level 1 Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-11",
     "name": "Cinta Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-14",
     "name": "Diamon Medical Pavilion Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-20",
     "name": "Larkay-Ta Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-15",
     "name": "Gbaye-Ta Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-19",
     "name": "Lango Lappay School Based Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-33",
     "name": "Weala Community Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-34",
     "name": "Yeamai Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-08",
     "name": "Barbour Hill Community Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-26",
     "name": "Planned Parental Association of Liberia Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-17",
     "name": "KRTTI Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-30",
     "name": "Tucker-Ta Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-18",
     "name": "KRTTI School Based Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-22",
     "name": "Modern Medical Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-31",
     "name": "Vellay-Ta Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-32",
     "name": "Weala  United Methodist Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-21",
     "name": "Ma. Cynthia Health Care Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2406-35",
     "name": "Divine Healing community Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-27-2708-02",
     "name": "Pougbaken Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2708-01",
     "name": "Edith H. Wallace Health Center",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2710-03",
     "name": "Tarworken Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2710-04",
     "name": "Yediaken Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2710-01",
     "name": "Boniken Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2710-02",
     "name": "Manolu Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-03-0302-15",
     "name": "A-Z Medical Center",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0302-09",
     "name": "God’s Gift Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0302-05",
     "name": "Gonzipo Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0302-11",
     "name": "Gayah Hill Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0302-08",
     "name": "Gogehn Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0302-07",
     "name": "Golodee Lassana Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0302-06",
     "name": "Gonjeh Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0302-04",
     "name": "Malema Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0302-03",
     "name": "Sasstown Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0302-16",
     "name": "Gbah Jarkeh Community Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0302-12",
     "name": "Mano Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0302-01",
     "name": "Klay Health Center",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0302-02",
     "name": "Besao Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0302-14",
     "name": "Zordee Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-0302-13",
     "name": "Refuge Place Int’l Annex 4 (Lowa Clinic)",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-06-0618-01",
     "name": "Bah-ta Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0618-02",
     "name": "Botota Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0618-04",
     "name": "Rock Crusher Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0618-05",
     "name": "Yolota Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0618-06",
     "name": "Sayweh Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0618-03",
     "name": "Gbecohn Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-21-2104-02",
     "name": "Bolahun Health Center",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2104-05",
     "name": "Fassavolu Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2104-03",
     "name": "Faith Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2104-06",
     "name": "Gondalahun Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2104-04",
     "name": "Fangoda Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2104-07",
     "name": "Korworhun Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2104-08",
     "name": "Mbalotahun clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2104-01",
     "name": "Kolahun Hospital",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2104-09",
     "name": "Nyandemoilahun Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2104-13",
     "name": "Maweyansu clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2104-10",
     "name": "Hangala Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2104-12",
     "name": "Boaworhun Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2104-15",
     "name": "Wanwoma Rubber farm clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2104-11",
     "name": "kpandehewa Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2104-14",
     "name": "Quessemba clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-45-4507-01",
     "name": "Kungbor Clinic",
     "county": "Gbarpolu",
-    "countyCode": "03"
+    "countyCode": "GBR"
   },
   {
     "id": "LBR-15-1506-01",
     "name": "Konobo Health Center",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1506-02",
     "name": "Boundary Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1506-03",
     "name": "Tarloken Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1506-04",
     "name": "Billibo Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-06-0624-01",
     "name": "Kpaai Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0624-02",
     "name": "Palala Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0624-03",
     "name": "Yila Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0624-04",
     "name": "Zebay Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0624-05",
     "name": "Zowienta Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-39-3930-04",
     "name": "Kilo Town Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39--3930-02",
     "name": "GVL Kpanyan Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39--3930-05",
     "name": "Panama Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39--3930-07",
     "name": "Sinoe Rubber Company Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39--3930-03",
     "name": "Kabada Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39--3930-01",
     "name": "Drapoh Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39--3930-06",
     "name": "Saywon Town Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39--3930-08",
     "name": "Tubmanville Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-18-1824-01",
     "name": "Sass Town Health Center",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1824-03",
     "name": "Sobo Community Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1824-02",
     "name": "Niful Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-24-2408-12",
     "name": "Boye Town Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-13",
     "name": "Charlseville Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-05",
     "name": "Community Healthcare Initiatives Women and Children Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-04",
     "name": "Absolute Medical Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-01",
     "name": "14 Military Hospital",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-15",
     "name": "Excellent Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-17",
     "name": "Jaw Community Clinic Annex 1",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-16",
     "name": "J C medical Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-18",
     "name": "Karwah Medical Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-14",
     "name": "Daniel J. Kollie Clinic (DJK)",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-07",
     "name": "Maternal and Child Health Care Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-08",
     "name": "New Beginning Fertility  Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-03",
     "name": "Marshall Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-19",
     "name": "Kelvin Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-10",
     "name": "Unification Town Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-21",
     "name": "R. S. CauldField School Base Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-24",
     "name": "Summah Medical Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-28",
     "name": "Zeeworth Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-25",
     "name": "Triple T Medical Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-23",
     "name": "Schefflin Town Clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-22",
     "name": "Royal Home clinic",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-06",
     "name": "Edward Beyan Kesselly Military Barracks Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-24-2408-30",
     "name": "Ma. Juah Memorial Health Center",
     "county": "Margibi",
-    "countyCode": "09"
+    "countyCode": "MAR"
   },
   {
     "id": "LBR-33-3328-02",
     "name": "Beindin Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3328-03",
     "name": "Bunadin Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3328-06",
     "name": "Tunukpuyee Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3328-04",
     "name": "Duo Town Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3328-05",
     "name": "Kpein Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3328-01",
     "name": "Zahn Bahnla Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-09-0902-01",
     "name": "Bokay Town Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-09-0902-02",
     "name": "Owensgrove Clinic",
     "county": "Grand Bassa",
-    "countyCode": "04"
+    "countyCode": "GRB"
   },
   {
     "id": "LBR-06-0608-02",
     "name": "Boway Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0608-03",
     "name": "Foequelleh Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0608-04",
     "name": "Garmue Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0608-05",
     "name": "Jorwah Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0608-01",
     "name": "Bellemu Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-27-2712-02",
     "name": "Barraken Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2712-01",
     "name": "Pleebo Health Center",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2712-03",
     "name": "Cavalla Rubber Plantation Medical Center",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2712-04",
     "name": "Gbloken Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2712-05",
     "name": "Rock Town Kunokudi Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2712-06",
     "name": "Sodoken Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-27-2712-07",
     "name": "St Francis Clinic",
     "county": "Maryland",
-    "countyCode": "10"
+    "countyCode": "MAL"
   },
   {
     "id": "LBR-12-1206-03",
     "name": "Bendaja Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1206-04",
     "name": "Kawelahum Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1206-01",
     "name": "Damballa Health Center",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1206-02",
     "name": "Bamballa Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1206-05",
     "name": "Kongo Mano River Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-42-4212-04",
     "name": "Juwelpo Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4212-02",
     "name": "Connie Brown Christians Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4212-03",
     "name": "Jayproken Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4212-01",
     "name": "Fish Town Hospital",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-15-1512-01",
     "name": "Karlorwleh Town Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1512-03",
     "name": "Putu Pennokon Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1512-02",
     "name": "Putu Jarwodee Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-39-3920-01",
     "name": "Chebioh's Town Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3920-02",
     "name": "Payne Town Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3920-03",
     "name": "Pelloken Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3920-04",
     "name": "Voogbadee Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-33-3332-01",
     "name": "Sacleapea Comprehensive Health Center",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3332-02",
     "name": "Cocopa Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3332-06",
     "name": "Karnwee Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3332-09",
     "name": "Saclepea Dorcus Mantor Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3332-03",
     "name": "Duayee Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3332-05",
     "name": "Flumpa Mission Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3332-07",
     "name": "Kpallah Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3332-08",
     "name": "Kpaytuo Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3332-10",
     "name": "ULIC Saclepea Mission Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3332-04",
     "name": "Flumpa Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-06-0610-01",
     "name": "Salala Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0610-02",
     "name": "Tokpaipolu Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0610-03",
     "name": "Totota Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-21-2106-01",
     "name": "Faith Medical Lab Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2106-02",
     "name": "Ganglota Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2106-03",
     "name": "Gbanway Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2106-04",
     "name": "Gbonyea Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2106-07",
     "name": "Kpayaquelle Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2106-05",
     "name": "Gorlu Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2106-08",
     "name": "Salayea Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2106-06",
     "name": "Kpaiyea Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2106-09",
     "name": "Sucromu Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2106-10",
     "name": "Yarpuah Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-33-3302-01",
     "name": "GW Harley Hospital",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3302-02",
     "name": "Arcelor Mittal Hospital",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3302-03",
     "name": "Duo Tiayee Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3302-04",
     "name": "Lugbehyee Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3302-06",
     "name": "St Mary's Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3302-05",
     "name": "Pentecostal Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3302-07",
     "name": "Young Men's Christian Association Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3302-08",
     "name": "Grace Diagnostic & Treatment Center",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-06-0612-02",
     "name": "Gbonota Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0612-01",
     "name": "Beletanda",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0612-03",
     "name": "Kelebei Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0612-04",
     "name": "Sanoyea Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-42-4216-02",
     "name": "Free Town Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4216-04",
     "name": "U-Bor Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4216-03",
     "name": "River Gbeh Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4216-01",
     "name": "Sarbo Health Center",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-03-306-01",
     "name": "Liberia Government Hospital (Bomi)",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-306-05",
     "name": "Sackie Town Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-306-03",
     "name": "Beafine Community Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-306-06",
     "name": "St Luke's Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-306-02",
     "name": "Ahmiddiya Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-306-04",
     "name": "Yomo Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-30-3014-05",
     "name": "EJ Goodridge HC",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-06",
     "name": "THT Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-07",
     "name": "New Georgia Community Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-10",
     "name": "AFRO-Medical Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-37",
     "name": "Hope For Women Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-39",
     "name": "Iron Factory Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-40",
     "name": "Jacob K Morris Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-54",
     "name": "Maggie Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-13",
     "name": "Bardnersville Medical  & Lab Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-14",
     "name": "Benko Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-41",
     "name": "Jaw Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-46",
     "name": "Kenneh Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-47",
     "name": "Leonell Gulf Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-48",
     "name": "LESH Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-15",
     "name": "Bethesda Medical Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-16",
     "name": "Blessing Maternity Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-18",
     "name": "CAP Merlin Youth Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-19",
     "name": "Chocolate City Clinic LCL",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-20",
     "name": "City View Comm. Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-17",
     "name": "BRAC Diagnostic Laboratory Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-21",
     "name": "Darquee Town Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-42",
     "name": "Jobeta Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-43",
     "name": "Julius Roger Maternity Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-52",
     "name": "Ma -Watta Medical & Eye",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-45",
     "name": "Kelvin Medical & Lab. Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-01",
     "name": "J N Davies Hospital",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-22",
     "name": "Diagnostic Rescue International Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-24",
     "name": "Dr. Bob Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-23",
     "name": "Divine Wonder Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-25",
     "name": "Faith Medical & Laboratory Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-26",
     "name": "Faith Medical Clinic Annex  II",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-51",
     "name": "M. Watta Kamara Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-50",
     "name": "LPRC Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-53",
     "name": "Ma- Bea Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-27",
     "name": "Family Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-03",
     "name": "Barnersville HC",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-30",
     "name": "FREDAI Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-28",
     "name": "Forkey Maternity Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-32",
     "name": "Gardnersville Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-04",
     "name": "Chocolate City HC",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-33",
     "name": "Guru Nanak Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-34",
     "name": "Haja Kadiatu Sherif Memorial Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-35",
     "name": "Healthline Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-55",
     "name": "Marie Thomas clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-57",
     "name": "Triple M-S Medical & Surgical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-63",
     "name": "Mother Ida Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-64",
     "name": "National Police Training Academy Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-66",
     "name": "New Sight Eye Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-68",
     "name": "P K Nyansaiye Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-73",
     "name": "Peace Home Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-71",
     "name": "Patience Frist Medical Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-76",
     "name": "PESAM Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-78",
     "name": "Rambow Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-83",
     "name": "Sarah Doe Memorial",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-79",
     "name": "Rapha Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-82",
     "name": "Samaritan Mission Medical Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-80",
     "name": "RH Ferguson Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-81",
     "name": "Safe Zone Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-85",
     "name": "Sawee Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-86",
     "name": "Sister Agnes Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-87",
     "name": "Sister Barbara Ann Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-88",
     "name": "Stamar Karmo Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-89",
     "name": "Stanko Maternity Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3014-94",
     "name": "Jamaica Rd Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-02",
     "name": "Bromely Community Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-04",
     "name": "Amusawyer Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-03",
     "name": "AF Russell Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-01",
     "name": "Island Hospital",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-07",
     "name": "Arthington Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-08",
     "name": "Banjor Comm Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-13",
     "name": "Esther & Robertson Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-09",
     "name": "Blamacee Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-11",
     "name": "City Medical Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-14",
     "name": "Faith Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-15",
     "name": "Gbondoi Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-20",
     "name": "Iron Gate Medical & Laboratory Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-17",
     "name": "Glory of Christ Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-19",
     "name": "Imani House Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-22",
     "name": "ACRES Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-26",
     "name": "Mairiama Z. Brown Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-30",
     "name": "New Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-23",
     "name": "Kpalla Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-25",
     "name": "Lott Carey Mission School Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-32",
     "name": "RC Marshall Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-31",
     "name": "Orange Village (Mama Tormah) Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-35",
     "name": "Ricks Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3006-38",
     "name": "Tenegar Community Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-06-0614-01",
     "name": "Phebe Hospital",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0614-02",
     "name": "Agape Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0614-03",
     "name": "D.C. Mark Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0614-04",
     "name": "Fenutoli Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0614-05",
     "name": "Gbarnla Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0614-06",
     "name": "Gbartala Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0614-07",
     "name": "Nyarta Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0614-08",
     "name": "Zeanzue Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-03-304-05",
     "name": "Weawolo Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-304-02",
     "name": "Mecca Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-304-01",
     "name": "Fefeh Town Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-304-03",
     "name": "Mulbah Town Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-03-304-04",
     "name": "Suehn Clinic",
     "county": "Bomi",
-    "countyCode": "01"
+    "countyCode": "BOM"
   },
   {
     "id": "LBR-33-3314-04",
     "name": "Glahn's Town",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3314-03",
     "name": "Diallah Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3314-05",
     "name": "Mid Baptist Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3314-06",
     "name": "Zodru Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3314-02",
     "name": "Consolata Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3314-01",
     "name": "Jackson F. Doe Memorial Hospital",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3314-07",
     "name": "Tiah Town clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-39-3907-03",
     "name": "Jacksonville Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3907-02",
     "name": "Elizabeth Nyanti Institute Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3907-01",
     "name": "Gbason Town Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3907-04",
     "name": "Juahzon Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3907-06",
     "name": "Wiah Town Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3907-05",
     "name": "Roselyn Toe Massaquoi Clinic",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-39-3909-01",
     "name": "B O P Clinc",
     "county": "Sinoe",
-    "countyCode": "15"
+    "countyCode": "SIN"
   },
   {
     "id": "LBR-15-1508-01",
     "name": "Martha Tubman Memorial Hospital",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1508-05",
     "name": "Gorbowrogba Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1508-04",
     "name": "Galapo Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1508-07",
     "name": "Kannah  Clinic (PTP Refugee Clinic)",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1508-03",
     "name": "Christ the King Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1508-08",
     "name": "Kumah Town Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-15-1508-09",
     "name": "Toffoi Town Clinic",
     "county": "Grand Gedeh",
-    "countyCode": "06"
+    "countyCode": "GRG"
   },
   {
     "id": "LBR-12-1210-01",
     "name": "Richard and Hellen Devos Health Center",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1210-02",
     "name": "WAHO  Health Center",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1210-04",
     "name": "Fahnja Community Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1210-07",
     "name": "Jene-Wonde Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1210-08",
     "name": "Kulangor Community Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1210-11",
     "name": "Bangorma Community Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1210-09",
     "name": "Mambo Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1210-10",
     "name": "Tienni Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1210-06",
     "name": "Gonelor Community Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1210-05",
     "name": "Gondama Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1210-12",
     "name": "Diah Community Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-12-1210-03",
     "name": "Tahn-Mafa Community Clinic",
     "county": "Grand Cape Mount",
-    "countyCode": "05"
+    "countyCode": "GCM"
   },
   {
     "id": "LBR-42-4205-01",
     "name": "Cheboken Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4205-02",
     "name": "Dartoken Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4205-03",
     "name": "Gmomaken Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-30-3008-07",
     "name": "Yarkpa Town Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3008-03",
     "name": "Goba Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3008-02",
     "name": "Nyehn Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3008-08",
     "name": "Yeagbah Town Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3008-09",
     "name": "Zannah Town Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3008-04",
     "name": "Koon Town Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3008-05",
     "name": "Ma - Norwah Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3008-01",
     "name": "Bracket Christain Health Center",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3008-06",
     "name": "Pleemu Clinic",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-30-3008-10",
     "name": "Zingbor Town",
     "county": "Montserrado",
-    "countyCode": "11"
+    "countyCode": "MON"
   },
   {
     "id": "LBR-18-1834-01",
     "name": "Behwan Health Center",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1834-02",
     "name": "Elizabeth Garwo Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1834-03",
     "name": "Garraway Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1834-04",
     "name": "Gblebo Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1834-05",
     "name": "Genoyah Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1834-07",
     "name": "Newaken  Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1834-08",
     "name": "Nifa Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1834-09",
     "name": "Wilsonville Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-18-1834-06",
     "name": "GVL Clinic",
     "county": "Grand Kru",
-    "countyCode": "07"
+    "countyCode": "GRK"
   },
   {
     "id": "LBR-33-3310-01",
     "name": "Beo-Yoolar Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3310-03",
     "name": "Garplay Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3310-04",
     "name": "Gbeivonwea Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3310-05",
     "name": "Kpairplay Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3310-06",
     "name": "Slangonplay Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3310-07",
     "name": "Vayenglay Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3310-02",
     "name": "Berh Lombaye Memorial clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-21-2108-02",
     "name": "Kaintahun Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2108-05",
     "name": "Popalahun Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2108-03",
     "name": "Kamatahun Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2108-01",
     "name": "Vahun Health Center",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2108-04",
     "name": "Lukasu Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-09",
     "name": "Kpotomai Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-10",
     "name": "Lawalzu Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-01",
     "name": "Tellewoyan Memorial Hospital",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-11",
     "name": "Sarkonnedu Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-02",
     "name": "Balakpalasu Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-12",
     "name": "Torbogizizu Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-03",
     "name": "Barkedu Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-13",
     "name": "Vezala Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-04",
     "name": "Bazagizia Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-07",
     "name": "Kpademai Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-14",
     "name": "Voinjama Free Pentecostal Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-05",
     "name": "Bondi Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-06",
     "name": "Duogomai Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-15",
     "name": "Zenalormai Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-08",
     "name": "Kpakamai Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2110-16",
     "name": "Healing Hands clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-42-4203-03",
     "name": "Nyenebo Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4203-02",
     "name": "Nyaaken Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4203-04",
     "name": "Tuobo Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-42-4203-01",
     "name": "Jimmyville Clinic",
     "county": "RiverGee",
-    "countyCode": "00"
+    "countyCode": "RGE"
   },
   {
     "id": "LBR-36-3607-01",
     "name": "ITI Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-36-3607-03",
     "name": "Po-River Medical Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-36-3607-02",
     "name": "Klaygbae Clinic",
     "county": "RiverCess",
-    "countyCode": "00"
+    "countyCode": "RIV"
   },
   {
     "id": "LBR-33-3326-02",
     "name": "Boyee Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3326-01",
     "name": "Zekepa Health Center",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3326-03",
     "name": "Kwendin Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3326-04",
     "name": "Menhla Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3326-06",
     "name": "Zahnzayee Community Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3326-05",
     "name": "Yarwinmehnsonnoh Fundamental Baptist Church Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3324-01",
     "name": "Bahn Health Center",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3324-02",
     "name": "Beadatuo Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3324-03",
     "name": "Gblonlay Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3324-05",
     "name": "ULIC Bahn Mission Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3324-06",
     "name": "Weato Memorial Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3324-04",
     "name": "Payee Community Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3324-07",
     "name": "Wehplay Clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3324-08",
     "name": "Mother Youhn Zayguah Gbor Midwifery clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-33-3324-09",
     "name": "Turpoe Monseh Soko Memorial clinic",
     "county": "Nimba",
-    "countyCode": "12"
+    "countyCode": "NIM"
   },
   {
     "id": "LBR-21-2112-02",
     "name": "Konia Health Center",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2112-06",
     "name": "Fissibu Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2112-03",
     "name": "Balagwalazu Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2112-04",
     "name": "Barziwen Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2112-05",
     "name": "Borkeza Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2112-07",
     "name": "Luyeama Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2112-01",
     "name": "Curran Lutheran Hospital",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2112-08",
     "name": "Yeala Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2112-09",
     "name": "Zolowo Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2112-10",
     "name": "ZRTTI Clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2112-12",
     "name": "Zorzor Medical &  Laboratory clinic (Monrovia. highway)",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2112-11",
     "name": "Hope clinic (Yeala road) p",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2112-13",
     "name": "Zorzor Medical & Laboratory clinic -Annex (Boi town)",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-21-2112-14",
     "name": "Nekeborzu clinic",
     "county": "Lofa",
-    "countyCode": "08"
+    "countyCode": "LOF"
   },
   {
     "id": "LBR-06-0616-03",
     "name": "Gbansuslomah Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0616-04",
     "name": "Naama Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0616-01",
     "name": "Belefanai Health Center",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0616-02",
     "name": "Gbalatuah Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0616-05",
     "name": "Shankpallai Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   },
   {
     "id": "LBR-06-0616-06",
     "name": "Yoewee Clinic",
     "county": "Bong",
-    "countyCode": "02"
+    "countyCode": "BON"
   }
 ]
