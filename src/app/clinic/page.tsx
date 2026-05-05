@@ -48,7 +48,7 @@ export default function ClinicPage() {
 
   const handleLogout = () => {
     localStorage.removeItem('selectedClinic');
-    router.push('/login');
+    router.push('/');
   };
 
   if (!clinic) {

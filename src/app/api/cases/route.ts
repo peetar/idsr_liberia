@@ -58,7 +58,8 @@ async function saveCases(cases: Case[]): Promise<void> {
     fs.writeFileSync(LOCAL_DATA_PATH, JSON.stringify(cases, null, 2));
   } else if (useBlob) {
     await put(CASES_FILE, JSON.stringify(cases), {
-      access: BLOB_ACCESS as 'private' | 'public'
+      access: BLOB_ACCESS as 'private' | 'public',
+      allowOverwrite: true,
     });
   } else {
     throw new Error('BLOB_READ_WRITE_TOKEN is required for production deployment');
