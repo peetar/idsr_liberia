@@ -8,20 +8,12 @@ const CASES_FILE = 'cases.json';
 const LOCAL_DATA_PATH = path.join(process.cwd(), 'data', 'cases.json');
 
 async function getCases(): Promise<Case[]> {
+  // In production (Vercel), always use Blob
+  // In development, use Blob if token is set, otherwise use local file
   const useBlob = process.env.BLOB_READ_WRITE_TOKEN;
   
-  if (useBlob) {
-    // Use Vercel Blob if token is available
-    try {
-      const blob = await head(CASES_FILE);
-      if (!blob) return [];
-      const response = await fetch(blob.url);
-      return await response.json();
-    } catch {
-      return [];
-    }
-  } else {
-    // Use local file if no token
+  if (!useBlob && process.env.NODE_ENV === 'development') {
+    // Development without token: use local file
     try {
       if (fs.existsSync(LOCAL_DATA_PATH)) {
         const data = fs.readFileSync(LOCAL_DATA_PATH, 'utf8');
@@ -31,22 +23,39 @@ async function getCases(): Promise<Case[]> {
     } catch {
       return [];
     }
+  } else if (useBlob) {
+    // Has token: use Vercel Blob
+    try {
+      const blob = await head(CASES_FILE);
+      if (!blob) return [];
+      const response = await fetch(blob.url);
+      return await response.json();
+    } catch {
+      return [];
+    }
   }
+  
+  return [];
 }
 
 async function saveCases(cases: Case[]): Promise<void> {
+  // In production (Vercel), always use Blob
+  // In development, use Blob if token is set, otherwise use local file
   const useBlob = process.env.BLOB_READ_WRITE_TOKEN;
   
-  if (useBlob) {
-    // Use Vercel Blob if token is available
-    await put(CASES_FILE, JSON.stringify(cases), { access: 'public' });
-  } else {
-    // Use local file if no token
+  if (!useBlob && process.env.NODE_ENV === 'development') {
+    // Development without token: use local file
     const dir = path.dirname(LOCAL_DATA_PATH);
     if (!fs.existsSync(dir)) {
       fs.mkdirSync(dir, { recursive: true });
     }
     fs.writeFileSync(LOCAL_DATA_PATH, JSON.stringify(cases, null, 2));
+  } else if (useBlob) {
+    // Has token: use Vercel Blob
+    await put(CASES_FILE, JSON.stringify(cases), { access: 'public' });
+  } else {
+    // Production without token: throw error
+    throw new Error('BLOB_READ_WRITE_TOKEN is required for production deployment');
   }
 }
 
