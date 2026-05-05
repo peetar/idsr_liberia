@@ -15,7 +15,8 @@ A prototype for Integrated Disease Surveillance and Response (IDSR) in Liberia, 
 2. Install dependencies: `npm install`
 3. Set up environment variables (optional):
    - `BLOB_READ_WRITE_TOKEN`: If set, uses Vercel Blob for storage (works locally and in production)
-   - If not set, uses local file storage in `data/cases.json`
+   - `BLOB_STORAGE_ACCESS`: Optional, `private` or `public`. Defaults to `private`.
+   - If no token is set in development, uses local file storage in `data/cases.json`
 4. Run the development server: `npm run dev`
 5. Open [http://localhost:3000](http://localhost:3000)
 
